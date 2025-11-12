@@ -1,0 +1,20 @@
+/* src/app/global.css */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f4f7f9;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
